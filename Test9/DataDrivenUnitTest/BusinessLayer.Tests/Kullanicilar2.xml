@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Kullanicilar>
+  <Kullanici ad="Muhammet" telefon="0123456" mail="muhammetclk56@gmail.com" />
+  <Kullanici ad="Ahmet" telefon="0123450" mail="abc@gmxyzail.com" />
+  <Kullanici ad="Mehmet" telefon="0123451" mail="abc@gmxyzail.com" />
+  <Kullanici ad="Alice" telefon="0123452" mail="abc@gmxyzail.com" />
+  <Kullanici ad="Ayse" telefon="0123453" mail="abc@gmxyzail.com" />
+  <Kullanici ad="Fatma" telefon="0123454" mail="abc@gmxyzail.com" />
+  <Kullanici ad="salih" telefon="0123455" mail="abc@gmxyzail.com" />
+
+</Kullanicilar>
+
+
